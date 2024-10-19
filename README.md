@@ -5,7 +5,7 @@ In this project we have explored different models for text - to -images generati
 INPUT = "Yellow flower with black stemen"
 
 OUTPUT:
-![alt text](image.png)
+![alt text](https://github.com/Captain-MUDIT/Verbal-to-Visual/blob/main/Screenshot%202024-10-19%20043938.png)
 
 INPUT="red flower"
 
