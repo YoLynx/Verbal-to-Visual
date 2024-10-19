@@ -1,5 +1,5 @@
-# VERBAL TO VISIUAL - TEXT TO IMAGE
-In this project we have explored different models for text - to -images generation in which we take in text it is is converted into its embedding and then we get our image generated
+# VERBAL TO VISUAL - TEXT TO IMAGE
+In this project we have explored and implemented different models for text - to -images generation in which we take in text it is converted into its embedding and then we get our image generated
 
 ## USING XL+GANS
 INPUT = "Yellow flower with black stemen"
