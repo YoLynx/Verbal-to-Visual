@@ -32,7 +32,7 @@ flickr8k:
 
 ## APPROACHES AND THEORY
 So in our project we explored the approches of gans like stack gans , dc gans , XLnets+gans , and we also explored modern hopefield 
-model sp lets see all the approches
+model so lets see all the approches :
 
 ### DCGANS
 * In our project, DCGAN serves as the core architecture for both the generator and the discriminator.
@@ -53,11 +53,11 @@ model sp lets see all the approches
 
 [##Reasearch papper for mhn](https://arxiv.org/pdf/2208.04441)
 
-### XLNets + gans
+### XLNets + GANs
 * Making the use of XLNet and GANs, we were able to generate the images of flowers based on prompts. 
-Where XLNet was used to generate the text embeddings from the captions present in the dataset.
+Where XLNet was used to generate the better text embeddings from the captions present in the dataset.
 * GANs generated the image based on the text embeddings they were fed.
-* The combination of GANs + XLNet proves to be effective    because the system can simultaneously learn from textual and visual data, enhancing its ability to generate images that are contextually aligned with the input text. 
+* The combination of GANs + XLNet proves to be effective because the system can simultaneously learn from textual and visual data, enhancing its ability to generate images that are contextually aligned with the input text. 
 * The discriminator in GANs provides feedback to the generator, allowing it to refine the generated images iteratively. When the generator uses high-quality text embeddings from XLNet as input, this feedback loop becomes more effective, leading to better convergence and higher-quality outputs
 XLNet outperformed BERT, because even using the BERT model we were not able to get an image which corresponds to the prompt.
 
